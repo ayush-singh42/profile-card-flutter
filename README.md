@@ -1,16 +1,69 @@
-# profile_card
+# 📱 Profile Card App
 
-A new Flutter project.
+A simple and clean Flutter UI project where I built a **Profile Card**.
+This project helped me understand basic Flutter layout and styling concepts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 👤 Profile Image (Circle Avatar)
+* 📝 Name and Bio section
+* 🔘 Follow & Message Buttons
+* 🎨 Clean and modern UI design
+* 📱 Centered card layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+* Flutter
+* Dart
+
+---
+
+## 📸 Screenshots
+
+![Profile Card UI](assets/images/screenshot1.png)
+
+---
+
+## 🧠 What I Learned
+
+* How to use **Container, Column, Row**
+* How to display images using **AssetImage**
+* How to design UI using **padding, margin, border radius, shadow**
+* How to create and style buttons
+* Basic layout structure in Flutter
+
+---
+
+## 🎯 Future Improvements
+
+* Add button functionality (Follow → Following)
+* Improve UI design (colors, spacing, icons)
+* Make UI responsive for all screen sizes
+
+---
+
+## 📂 Project Structure
+
+assets/
+├── images/
+└── screenshots/
+
+lib/
+└── main.dart
+
+---
+
+## 👨‍💻 Author
+
+**Ayush**
+Flutter Beginner 🚀
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
